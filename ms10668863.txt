@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "evimerocapital.com.au",
+  "Id": "aad19f62-0a19-40a7-be1b-f3b67c1e4833"
+}
